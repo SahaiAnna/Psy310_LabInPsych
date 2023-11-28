@@ -1,0 +1,65 @@
+Participant,colour,valance,expression,choice
+1,gray,positive,frown,6
+1,gray,negative,frown,14
+1,gray ,positive,smile,14
+1,gray,negative,smile,5
+1,red,positive,frown,7
+1,red,negative,frown,12
+1,red,positive,smile,12
+1,red,negative,smile,7
+1,yellow,positive,frown,6
+1,yellow,negative,frown,16
+1,yellow,positive,smile,13
+1,yellow,negative,smile,4
+,,,,
+2,gray,positive,frown,9
+2,gray,negative,frown,9
+2,gray ,positive,smile,10
+2,gray,negative,smile,9
+2,red,positive,frown,7
+2,red,negative,frown,9
+2,red,positive,smile,13
+2,red,negative,smile,11
+2,yellow,positive,frown,9
+2,yellow,negative,frown,7
+2,yellow,positive,smile,11
+2,yellow,negative,smile,11
+,,,,
+3,gray,positive,frown,11
+3,gray,negative,frown,14
+3,gray ,positive,smile,9
+3,gray,negative,smile,6
+3,red,positive,frown,6
+3,red,negative,frown,9
+3,red,positive,smile,14
+3,red,negative,smile,10
+3,yellow,positive,frown,11
+3,yellow,negative,frown,8
+3,yellow,positive,smile,9
+3,yellow,negative,smile,12
+,,,,
+4,gray,positive,frown,12
+4,gray,negative,frown,12
+4,gray ,positive,smile,7
+4,gray,negative,smile,11
+4,red,positive,frown,14
+4,red,negative,frown,9
+4,red,positive,smile,9
+4,red,negative,smile,7
+4,yellow,positive,frown,11
+4,yellow,negative,frown,11
+4,yellow,positive,smile,6
+4,yellow,negative,smile,6
+,,,,
+5,gray,positive,frown,10
+5,gray,negative,frown,11
+5,gray ,positive,smile,8
+5,gray,negative,smile,9
+5,red,positive,frown,12
+5,red,negative,frown,7
+5,red,positive,smile,6
+5,red,negative,smile,16
+5,yellow,positive,frown,13
+5,yellow,negative,frown,4
+5,yellow,positive,smile,9
+5,yellow,negative,smile,12
